@@ -1,0 +1,38 @@
+[
+  {
+    "id": "char_1793441989230_db782abf",
+    "name": "Da Nguyet",
+    "avatar": "",
+    "cover": "",
+    "tagline": "Luoi kiem bong dem xe tan man suong",
+    "story": "Mot chien binh mang huyet mach co xua thuc tinh giua vung dat hoang tan.",
+    "charProfile": "Lanh lung, quyet doan, tinh thong kiem thuat.",
+    "profile": "Lanh lung, quyet doan, tinh thong kiem thuat.",
+    "userProfile": "",
+    "tags": [
+      "Protagonist",
+      "Dark",
+      "Fantasy"
+    ],
+    "chatLink": "https://example.com/chat/danhuyet",
+    "chatUrl": "https://example.com/chat/danhuyet",
+    "theme": {
+      "primaryColor": "#a855f7",
+      "secondaryColor": "#ec4899",
+      "textColor": "#ffffff",
+      "glowColor": "#c084fc",
+      "borderColor": "rgba(168, 85, 247, 0.4)",
+      "frameStyle": "glass",
+      "borderRadius": "2xl",
+      "backgroundOpacity": 0.85,
+      "backgroundStyle": "gradient",
+      "glowIntensity": "medium",
+      "dialogueDisplay": "bubble",
+      "imageFilter": "none"
+    },
+    "sampleDialogues": [],
+    "published": true,
+    "createdAt": "2026-10-31T10:19:49.230Z",
+    "updatedAt": "2026-10-31T10:19:49.252Z"
+  }
+]

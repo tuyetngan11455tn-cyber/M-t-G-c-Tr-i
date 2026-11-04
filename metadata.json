@@ -1,0 +1,6 @@
+{
+  "name": "Một Góc Trời",
+  "description": "Hồn treo theo gió, chuyện nằm lại giữa một góc trời. Không gian lưu trữ và khám phá nhân vật độc quyền.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

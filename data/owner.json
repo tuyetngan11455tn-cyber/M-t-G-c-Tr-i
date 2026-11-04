@@ -1,0 +1,11 @@
+{
+  "id": "usr_admin_01",
+  "isConfigured": false,
+  "email": "",
+  "role": "admin",
+  "status": "active",
+  "passwordHash": "",
+  "salt": "",
+  "jwtSecret": "",
+  "createdAt": ""
+}
